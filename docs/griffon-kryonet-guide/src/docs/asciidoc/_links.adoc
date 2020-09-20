@@ -1,0 +1,11 @@
+
+:link_kryonet: link:ttps://github.com/EsotericSoftware/kryonet[Kryonet, window="_blank"]
+
+:api_kryonet_handler: link:api/griffon/plugins/kryonet/KryonetHandler.html[KryonetHandler, window="_blank"]
+:api_kryonetclient_callback: link:api/griffon/plugins/kryonet/KryonetClientCallback.html[KryonetClientCallback, window="_blank"]
+:api_kryonetclient_storage: link:api/griffon/plugins/kryonet/KryonetClientStorage.html[KryonetClientStorage, window="_blank"]
+:api_kryonet_aware: link:api/griffon/transform/KryonetAware.html[@KryonetAware, window="_blank"]
+
+:path_griffon_kryonet_core: {rootdir}/subprojects/griffon-kryonet-core
+:path_griffon_kryonet_groovy_compile: {rootdir}/subprojects/griffon-kryonet-groovy-compile
+
