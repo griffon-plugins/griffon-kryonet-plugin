@@ -17,19 +17,7 @@
  */
 config {
     info {
-        name          = projectDescription
-        description   = projectDescription
         inceptionYear = '2020'
         tags          = ['griffon', 'plugin', 'kryonet']
     }
-
-    coverage {
-        jacoco {
-            toolVersion = jacocoVersion
-        }
-    }
-}
-
-griffon {
-    version = griffonVersion
 }
