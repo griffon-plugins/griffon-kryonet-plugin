@@ -1,7 +1,7 @@
 /*
  * SPDX-License-Identifier: Apache-2.0
  *
- * Copyright 2020 The author and/or original authors.
+ * Copyright 2020-2021 The author and/or original authors.
  *
  * Licensed under the Apache License, Version 2.0 (the "License");
  * you may not use this file except in compliance with the License.
@@ -21,7 +21,7 @@ import com.esotericsoftware.kryonet.Client
 import griffon.annotations.core.Nonnull
 import griffon.core.artifact.GriffonService
 import org.codehaus.griffon.runtime.core.artifact.AbstractGriffonService
-import org.kordamp.jipsy.ServiceProviderFor
+import org.kordamp.jipsy.annotations.ServiceProviderFor
 
 import javax.inject.Inject
 
